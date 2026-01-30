@@ -2,7 +2,6 @@
 
 <h3>Linguagens de Programação</h3>
 <img src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src ="https://github.com/user-attachments/assets/ac17ddea-de6a-4332-bab3-179804053927" />
 
 
 <h3>Outros</h3>
