@@ -8,11 +8,11 @@
 <img src="https://img.shields.io/badge/Assembly MIPS-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white">
 
 <h3>Banco de Dados</h3>
-<img src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src ="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src ="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <h3>Ciência de Dados</h3>
-<img src ="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src ="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 
 
 <!--
